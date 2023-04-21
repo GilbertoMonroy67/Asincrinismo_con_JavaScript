@@ -1,0 +1,19 @@
+{
+  "name": "asincrinismo_con_javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "callback": "node src/callback/challenge.js"
+  },
+  "keywords": [
+    "\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[BJavaScript"
+  ],
+  "author": "Gilberto Alejandro Monroy Morales executive.mg67@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^3.3.1",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "type": "module"
+}
